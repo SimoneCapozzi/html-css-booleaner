@@ -1,0 +1,60 @@
+body {
+  width: 50%;
+  margin:auto
+}
+
+.box{
+  width: 100%; 
+	height: 50px;
+	background-color: #4ea0FF;
+  background-image: url(img/pattern.png);
+  background-size: contain;
+  
+}
+
+
+  
+.logo{
+  width: 100px;
+  height: 200px;
+  padding: 20px;
+  margin-left: 100px;
+}
+
+
+.principale{
+  margin-left: 100px;
+  margin-right: 150px;
+}
+
+.grigio{
+  font-size:20px ;
+  color: gray
+}
+
+.Booleaner{
+  font-size: 20px;
+  color: blue 
+}
+
+.data{
+  font-size: 10px;
+  color: gray
+}
+
+.immagine{
+  border-top: 20px;
+}
+
+.piccolo{
+  font-size: 10px;
+}
+
+.giallo{
+  background-color: yellow;
+}
+
+.th{
+  width: 25%;
+}
+
